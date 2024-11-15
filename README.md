@@ -1,8 +1,5 @@
-# React + Vite
+# Instashorts clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+RUN NPM INSTALL THEN NPM RUN DEV
+Use ENV FILE  VITE_NEWS_API_KEY  = YOUR API KEY
+https://newsapi.org/docs/endpoints/top-headlines (generate key from here)
