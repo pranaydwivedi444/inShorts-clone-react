@@ -36,7 +36,7 @@ export const appRouter = createBrowserRouter([
     children: [
       {
         path: "/",
-        element: <HomePage />,
+        element: <NewsPage />,
       },
       {
         path: "/category/:name",
